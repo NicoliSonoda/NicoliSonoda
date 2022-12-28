@@ -1,5 +1,4 @@
 - 👋 Olá, eu sou a Nicoli Sonoda, estudante de Análise e Desenvolvimento de Sistemas e apaixonada por Tecnologia!
-- 🌱 Atualmente estou aprendendo HTML e Python.
 - 📫 Como me achar-> LinkedIn: https://www.linkedin.com/in/nicoli-sonoda
 
 <!---
