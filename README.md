@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou a Nicoli Sonoda, estudante de Análise e Desenvolvimento de Sistemas e apaixonada por Tecnologia!
+- 👋 Olá, sou a Nicoli, e atual estudante de Análise e Desenvolvimento de Sistemas!
 - 📫 Como me achar-> LinkedIn: https://www.linkedin.com/in/nicoli-sonoda
 
 <!---
