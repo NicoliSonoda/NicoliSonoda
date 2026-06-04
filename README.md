@@ -20,13 +20,7 @@
 * SQL
 * JIRA
 * Azure Devops
-
-## 🌱 Atualmente estudando
-
-* Engenharia de Prompts
-* Boas práticas de QA
-* Automação de Testes
-
+* 
 ## 📫 Contato
 
 🔗 LinkedIn: [www.linkedin.com/in/nicoli-sonoda](http://www.linkedin.com/in/nicoli-sonoda)
