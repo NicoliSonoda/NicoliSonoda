@@ -20,7 +20,7 @@
 * SQL
 * JIRA
 * Azure Devops
-* 
+
 ## 📫 Contato
 
 🔗 LinkedIn: [www.linkedin.com/in/nicoli-sonoda](http://www.linkedin.com/in/nicoli-sonoda)
